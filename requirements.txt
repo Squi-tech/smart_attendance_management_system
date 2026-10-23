@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas
+numpy
+Pillow
+Werkzeug>=3.0
+setuptools<81
+dlib-bin
+face_recognition_models
